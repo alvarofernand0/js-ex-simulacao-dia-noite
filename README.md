@@ -110,17 +110,15 @@ O Sol/Lua deve se mover horizontalmente da esquerda para a direita ao longo do d
 
 * **JavaScript:**
 
-&#x20;   * Capturar a hora atual.
+  * Capturar a hora atual.
 
-&#x20;   * Criar lógicas.
+  * Criar lógicas.
 
-&#x20;   * Manipular o DOM.
+  * Manipular o DOM.
 
-&#x20;   * Alterar classes CSS ou estilos inline.
+  * Alterar classes CSS ou estilos inline.
 
 
 
 ---
-
-&#x20;
 
