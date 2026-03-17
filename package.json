@@ -1,0 +1,21 @@
+{
+  "name": "js-ex-simulacao-dia-noite",
+  "version": "1.0.0",
+  "description": "Criar uma página web dinâmica que represente visualmente o ciclo do dia, onde a iluminação e os elementos da tela mudam automaticamente de acordo com o horário atual do sistema.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarofernand0/js-ex-simulacao-dia-noite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alvarofernand0/js-ex-simulacao-dia-noite/issues"
+  },
+  "homepage": "https://github.com/alvarofernand0/js-ex-simulacao-dia-noite#readme"
+}
